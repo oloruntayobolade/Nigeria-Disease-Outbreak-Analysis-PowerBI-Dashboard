@@ -87,16 +87,6 @@ flowchart LR
 | 4 | Treat a year-on-year change larger than about 1.5% as a signal worth reviewing | No year moved more than 1.5% from the previous year |
 | 5 | Plan resources nationally, with state benchmarking against the roughly 7,700 average | No state stands out as a hotspot |
 
-## 📁 Repository structure
-
-```text
-.
-├── Disease-Outbreaks-Nigeria.pbix   # Power BI report
-├── images/
-│   └── dashboard-preview.png        # Dashboard screenshot
-└── README.md
-```
-
 ## ▶️ How to use
 
 1. Download or clone this repository.
@@ -107,10 +97,5 @@ flowchart LR
 
 Power BI dashboard design · KPI and data storytelling · public health analytics · interactive filtering · statistical sense-checking (chi-square tests) · data quality review
 
-## 👤 Author
-
+## 👤 Author:
 **Bolade Victor Oloruntayo** is a data analyst focused on business intelligence and health analytics, working with Power BI, Excel, Python, SPSS and SQL.
-
-<!-- Replace the placeholders below with your real links before publishing -->
-- LinkedIn: [your LinkedIn URL]
-- Portfolio: [your portfolio URL]
