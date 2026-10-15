@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Period-2009%E2%80%932018-6A3FA0?style=flat" alt="2009 to 2018" />
 </p>
 
-![Dashboard preview: Analysis of Disease Outbreaks in Nigeria between 2009 and 2018](Dashboard Overview.png)
+![Dashboard preview: Analysis of Disease Outbreaks in Nigeria between 2009 and 2018](https://github.com/oloruntayobolade/Nigeria-Disease-Outbreak-Analysis-PowerBI-Dashboard/blob/main/Dashboard%20Overview.png))
 
 ---
 
